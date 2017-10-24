@@ -1,4 +1,5 @@
 # Alex Feng
-This is a read me document of Alex Feng.
 
-To be continued
+Alex is a database guy, esp. in SQL Server.
+
+To be continued ...
